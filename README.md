@@ -1,7 +1,7 @@
 ## Olá muito prazer, sou Grazielle Moura 👍
 
-•😁 Em constante evolução 
-•📘 Estudante Javascript/Html/CSS/React JS
+😁 Em constante evolução 
+📘 Estudante Javascript/Html/CSS/React JS
 
 <div align="center">
   <a href="https://github.com/mouragra">
@@ -25,5 +25,6 @@
 
 </div>
 
+![MuaKissGIF](https://user-images.githubusercontent.com/109700352/203646925-13529d20-7ede-4bef-a3dd-1f6744af2cbc.gif)
 
 
