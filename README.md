@@ -26,5 +26,7 @@
 </div>
 
 ![MuaKissGIF](https://user-images.githubusercontent.com/109700352/203646925-13529d20-7ede-4bef-a3dd-1f6744af2cbc.gif)
+ ![snake gif](https://github.com/mouragra/mouragra/blob/output/github-contribution-grid-snake.svg)
+
 
 
